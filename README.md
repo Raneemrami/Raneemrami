@@ -1,10 +1,3 @@
-<div id="header" align="center">
-
- (<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VmOXM3ZDc2MW5yZXY0MGx0Z3E4cGFsa3JodXF0YWd4ZWxmZDNrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="200"/>
-</div>
-
-<!-- Im going to keep it because I think the GIF is cute-->
-
 # RANEEM RAMI MUQBEL
 
 * A beginner coder **trying to be a data scientist**.
