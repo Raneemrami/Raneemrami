@@ -1,7 +1,7 @@
 # RANEEM RAMI MUQBEL
 
 * A beginner coder **trying to be a data scientist**.
-* Currently taking the MIT emerging talent foundation track.
+* Currently taking the MIT emerging talent certificate program.
 * A high school graduate looking forward to studying computer science in college.
 
 ## INTERESTS
